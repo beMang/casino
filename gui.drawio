@@ -1,0 +1,76 @@
+<mxfile host="" modified="2020-05-30T11:52:14.750Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.45.1 Chrome/78.0.3904.130 Electron/7.2.4 Safari/537.36" etag="ygYRJObg-SdSZU1jYKWS" version="13.1.3">
+    <diagram id="6hGFLwfOUW9BJ-s0fimq" name="Page-1">
+        <mxGraphModel dx="1074" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="120" width="360" height="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Ecran d'accueil" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="80" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="430" width="360" height="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Ecran de jeu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="390" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Charger la partie" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="217.5" width="70" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Nouvelle partie" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="225" y="217.5" width="70" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Quitter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="343.5" y="217.5" width="70" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Casino : la roulette" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="140" width="280" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="490" y="120" width="360" height="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Ecran perdu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="92" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Tu n'as plus d'argent !" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="580" y="150" width="190" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Nouvelle partie" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="580" y="230" width="70" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Quitter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="700" y="230" width="70" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="&lt;div&gt;&lt;span&gt;200€&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;" parent="1" vertex="1">
+                    <mxGeometry x="390" y="440" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Message d'information" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="145" y="440" width="230" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Chiffre misé" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="490" width="110" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="Argent misé" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="560" width="110" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="JOUER !" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="560" width="110" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="&lt;div&gt;&lt;span&gt;Retour&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;" parent="1" vertex="1">
+                    <mxGeometry x="90" y="440" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="La roulette est sur le numéro : 5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="490" width="110" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="&lt;h1&gt;Features&lt;/h1&gt;&lt;p&gt;- Affichage de la couleur si chiffre paire/impaire&lt;/p&gt;&lt;p&gt;- Petite création de suspens quand affichage du numéro&lt;/p&gt;&lt;p&gt;-Système de sauvegarde (done)&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="490" y="455" width="190" height="155" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="Message d'erreur de sauvegarde" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="280" width="300" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
